@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flask Test Moralis</title>
+            <!-- Moralis SDK code -->
+            <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+            
+            <style>
+                p {text-align: center; position: relative; padding: 20px 50px 20px 50px; color: rgb(248, 251, 249);}
+                body{background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPEN3ByYYays%2Fmaxresdefault.jpg&f=1&nofb=1'); 
+                background-position: center center;
+                background-repeat: no-repeat; 
+                background-size: 100%;
+                background-attachment: fixed;
+                background-size: cover;
+                }
+            </style>
+    </head>
+
+    <body>
+        <!--
+        <h2>Account: <span class="showAccount"></span></h2>
+        -->
+        <button id="btn-RandomMint" style="text-align: center;  transform: translateX(280%); padding: 20px 50px 20px 50px;">Random Mint</button>
+        <div id="header" style="transform: translateX(35%);"></div>
+        <p id="Felicidades" style="background-color: rgb(0, 0, 0);"><font size='6'> ESTE ES TU NFT!! </font></p>
+        <p id="WAIT" style="background-color: rgb(0, 0, 0);"><font size='6'> ESPERA ANDAMOS COCINANDO TU NFT... </font></p>
+        <p id="STATUS" style="background-color: rgb(0, 0, 0);"><font size='6'> ANDAMOS CONFIRMANDO TU TRANSACCION </font></p>
+
+    <script src="{{ url_for('static', filename='js/createRandomImage.js') }}"></script>
+    
+    <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js"
+    type="application/javascript"></script>
+    
+</body>
+
+</html>

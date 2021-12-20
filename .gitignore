@@ -1,0 +1,9 @@
+api/data/img/*.jpg
+api/data/metadata/*.json
+api/bin/config.py
+
+**/.env
+**/__pycache__/
+
+truffle/build/*
+truffle/node_modules/*
