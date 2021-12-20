@@ -8,7 +8,7 @@ Con el siguiente proyecto generamos imagenes de forma aleatoria al momento del m
 
 > Youtube Video Click Image
 
-[![Alt text for your video](https://img.youtube.com/vi/Z6NpybFmqYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z6NpybFmqYE)
+[![Alt text for your video](https://img.youtube.com/vi/eaZsvYDpJsI/maxresdefault.jpg)](https://youtu.be/eaZsvYDpJsI)
 
 # Cosas Técnicas
 
