@@ -37,7 +37,7 @@ mint_txn =  instance.functions.ContractFuntion('METHODS').buildTransaction(build
 ```
 
 # Flow
-![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4111ae6d-c520-4379-969c-43722c4a0192/Untitled_Diagram.drawio%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211220T065502Z&X-Amz-Expires=86400&X-Amz-Signature=70b6e0379ee6c251b79e1165ec939e6a1cf83f4551a941835cd20ac90f0a634a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled%2520Diagram.drawio%281%29.png%22&x-id=GetObject)
+![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4111ae6d-c520-4379-969c-43722c4a0192/Untitled_Diagram.drawio%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211228T013226Z&X-Amz-Expires=86400&X-Amz-Signature=7c71a3c8aad2de8f063c03c18ac9f8f1b10f04532fcf46f04e280fef516875a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled%2520Diagram.drawio%281%29.png%22&x-id=GetObject)
 
 # Cómo usarlo?
 
