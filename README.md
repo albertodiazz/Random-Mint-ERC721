@@ -37,7 +37,7 @@ mint_txn =  instance.functions.ContractFuntion('METHODS').buildTransaction(build
 ```
 
 # Flow
-![alt text](https://i.ibb.co/3pWzrfz/Untitled-Diagram-drawio-1.png)
+![alt text](https://i.ibb.co/4N7rqHy/Untitled-Diagram-drawio-1.png)
 
 # Cómo usarlo?
 
