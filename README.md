@@ -37,7 +37,7 @@ mint_txn =  instance.functions.ContractFuntion('METHODS').buildTransaction(build
 ```
 
 # Flow
-![alt text](https://i.ibb.co/4N7rqHy/Untitled-Diagram-drawio-1.png)
+![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/85e629e8-5af1-4d6e-aeea-17ac2256fcf3/nse-3663403350849953498-441.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230116T205407Z&X-Amz-Expires=86400&X-Amz-Signature=cc348c3cb3f80306128bd30dfce75fa0a066771f18fd1081d4bdec594e3ba2ed&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22nse-3663403350849953498-441.png%22&x-id=GetObject)
 
 # Cómo usarlo?
 
